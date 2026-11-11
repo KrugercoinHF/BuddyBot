@@ -22,6 +22,8 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/node": "latest",
-    "jsdom": "latest"
+    "jsdom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/dom": "latest"
   }
 }
