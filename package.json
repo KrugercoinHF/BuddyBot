@@ -21,6 +21,9 @@
   "devDependencies": {
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "@types/node": "latest"
+    "@types/node": "latest",
+    "jsdom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/dom": "latest"
   }
 }
